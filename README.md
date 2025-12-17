@@ -2,7 +2,7 @@
 Space Invaders made in C#
 
 // SPACE INVADERS IN C# --
-// MADE BY MATII MERCADO (PINKU) 2019 - 2021
+// MADE BY MATIAS MERCADO (PINKU) 2019 - 2021
 // I'm liking C# :)
 
 //DON'T LET THE KING PINKU INVADE THE PLANET!
@@ -11,7 +11,7 @@ Space Invaders made in C#
 //SHOOT: [L]
 
 //-- 3 LIVES --
-//For each missed shot -1 live
+//For each missed shot you lose a life
 //As well if you shoot your own Cyan shields.
 
 //-- Enemies --
