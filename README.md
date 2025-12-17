@@ -1,14 +1,9 @@
 # SpaceInvaders-CS
 Space Invaders made in C#
-
-// SPACE INVADERS IN C# --
-// MADE BY MATIAS MERCADO (PINKU) 2019 - 2021
 // I'm liking C# :)
 
 //DON'T LET THE KING PINKU INVADE THE PLANET!
-
-//MOVE:  [A][D]
-//SHOOT: [L]
+//MOVE:  [A], [D] | SHOOT: [L]
 
 //-- 3 LIVES --
 //For each missed shot you lose a life
@@ -21,3 +16,5 @@ Space Invaders made in C#
 //They'll make 5 vertical steps before so.
 
 //GOOD LUCK!
+
+<img width="1826" height="1054" alt="x" src="https://github.com/user-attachments/assets/177235e9-45ba-4070-a0b9-e8389509b90d" />
