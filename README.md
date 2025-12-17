@@ -3,7 +3,7 @@ Space Invaders made in C#
 // I'm liking C# :)
 
 //DON'T LET THE KING PINKU INVADE THE PLANET!
-//MOVE:  [A], [D] | SHOOT: [L]
+/MOVE:  [A], [D] | SHOOT: [L]
 
 //-- 3 LIVES --
 //For each missed shot you lose a life
